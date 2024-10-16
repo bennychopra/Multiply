@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "15518__cars_l-63c9fedaa8d044a5850daf505277f2ef.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
